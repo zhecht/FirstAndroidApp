@@ -1,0 +1,70 @@
+Apr 08;5
+1974;Sports;Aaron hits his 715th home run
+1990;Hollywood;Twin Peaks premieres on ABC
+1994;Music;Kurt Cobain is found dead
+2005;Crime;Olympic Park bomber Eric Rudolph agrees to plead guilty
+2013;General Interest;Margaret Thatcher, Britain's first female prime minister, dies
+Apr 09;15
+1967;General Interest;1st Boeing 737 rolls out
+1968;General Interest;Martin Luther King Jr. is buried
+1965;Sports;Astrodome opens. First indoor baseball game is played
+1970;Music;Paul McCartney announces the official break-up of the Beatles
+1975;Sports;First game of the Phillippine Basketball Association
+1976;General Interest;The EMD F40PH diesel locomotive enters revenue services with Amtrak
+1981;War;The U.S. Navy submarine USS George Washington accidentally collides with the Nissho Maru
+1987;War;George Shultz condemns Soviet spying
+1984;Crime;A husband attempts murder for money in England
+1991;War;Georgia declares independence from the Soviet Union
+1992;Crime;A U.S. Federal Court find Panamanian dictator guilty of drug and racketeering charges. He is sentenced to 30 years in prison
+1999;War;Kosovo War: The Battle of Kosare begins
+2003;War;Iraq War: Baghdad falls to American forces
+2009;General Interest;A 6.1 magnitude earthquake strikes Iran killing 32 people and injuring over 850 people
+2009;General Interest;In Tbilisi, Georgia, up to 60,000 people protest against the government of Mikheil Saakashvili
+Apr 10;15
+1963;Disaster;Atomic submarine sinks in Atlantic
+1962;Sports;1st baseball game at LA's Dodger Stadium, losing 6-3 to Reds
+1960;General Interest;Senate passes landmark Civil Rights Bill
+1971;Sports;U.S. table tennis team visits communist China
+1972;Hollywood;Chaplin receives Oscar
+2005;Sports;Tiger Woods wins fourth Masters
+2005;General Interest;Hundreds of thousands protest H.R. 4437 ("Sensenbrenner Bill") in the US.
+2002;General Interest;Over 200,000 people march in Caracas towards the Presidential palace to demand the resignation of president Hugo Chavez
+1972;War;B-52s begin bombing North Vietnam
+1988;War;The Ojhri Camp Disaster
+1988;Hollywood;Cher wins best actress Oscar for Moonstruck
+1981;Crime;A massive riot in Brixton, south London results in almost 300 police injuries and 65 civilian injuries
+1991;General Interest;First documented storm caught on satellites
+1998;General Interest;The Good Friday Agreement is signed in Northern Ireland
+1991;Disaster;Italian ferry MS Moby Prince collides with an oil tanker in dense fog, killing 140
+Apr 11;15
+1970;General Interest;Apollo 13 launched to moon
+1971;Music;Bob Dylan plays his first major gig in NYC
+2004;Sports;Phil Mickelson wins first major at Masters
+2002;Crime;The Ghriba synagogue bombing by Al Qaeda kills 21 in Tunisia
+2001;War;The detained crew of a United States EP-3E aircraft that landed in Hainan, China is released
+1963;War;Troops from Hawaii sent to South Vietnam
+1961;General Interest;First man in Space
+1965;Disaster;40 tornadoes strike US midwest killing 272 & injuring 5,000
+1981;General Interest;First launching of the space shuttle
+1987;General Interest;The London Agreement is secretly signed between Israeli Minister and King Hussein of Jordan
+1986;Crime;FBI Miami Shootout
+1976;General Interest;The Apple I is created
+1991;War;UN Security Council issues formal cease fire with Iraq declaration
+1990;Crime;Custom officers in Middlesbrough, England, say they have seized what they believe to be the barrel of a massive gun on a ship bound for Irap
+1993;Crime;450 prisoners rioted at Southern Ohio Correctional Facility in Lucasville, Ohio
+Apr 12;15
+1961;Sports;Douglas MacArthur declines offer to become baseball commissioner
+1961;Music;3rd Grammy Awards: Ray Charles wins 4
+1961;General Interest;Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space
+1991;War;US announces closing of 31 major US military bases
+1999;Crime;US President Bill Clinton is cited for contempy of court for giving "intentionally false statements"
+1997;Sports;Tiger Woods wins first major
+1970;General Interest;Apollo 13 oxygen tank explodes
+1975;War;U.S. Embassy in Cambodia evacuated
+1973;General Interest;Sudan adopts constitution
+1981;Sports;Lawrence Taylor drafted by NYG
+1980;General Interes;US Olympic Committee endorses a boycott of the Moscow Olympic games
+1988;General Interest;Harvard U patents genetically engineered mouse (1st for animal life)
+2009;General Interest;Zimbabwe abandons the Zimbabwean dollar
+2000;Crime;US Navy rescues captain Richard Phillips, killing three pirates and capturing a fourth
+2002;Crime;A suicide bomber blows herself up at the entrance of a Jerusalem market

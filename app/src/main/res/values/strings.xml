@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld - Zack Hecht</string>
+    <string name="home_title">What happened on</string>
+    <string name="btn1_txt">Last Year</string>
+    <string name="btn2_txt">2000\'s</string>
+    <string name="btn3_txt">1990\'s</string>
+    <string name="btn4_txt">1980\'s</string>
+    <string name="btn5_txt">1970\'s</string>
+    <string name="btn6_txt">1960\'s</string>
+</resources>
