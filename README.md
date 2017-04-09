@@ -1,5 +1,5 @@
 # FirstAndroidApp
 
-### Simple app that displays today-in-history
+##### Simple app that displays today-in-history
 
-### First time working with Android Studio, Kotlin
+Wanted to try out Android Studio, Kotlin
