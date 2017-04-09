@@ -4,6 +4,5 @@ Simple app that displays today-in-history
 
 Wanted to try out Android Studio, Kotlin
 
-
-![alt tag](https://raw.githubusercontent.com/zhecht/FirstAndroidApp/android1.png)
-![alt tag](https://raw.githubusercontent.com/zhecht/FirstAndroidApp/android2.png)
+![android1](https://github.com/zhecht/FirstAndroidApp/blob/master/android1.png)
+![android2](https://github.com/zhecht/FirstAndroidApp/blob/master/android2.png)
